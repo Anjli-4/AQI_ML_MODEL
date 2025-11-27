@@ -32,4 +32,4 @@ The following regression models were tested during development:
 **Final Model Used:** `DecisionTreeRegressor`  
 **Training Dataset:** `city_day.csv` (Air pollution dataset)
 
-The final trained model is saved as:
+
